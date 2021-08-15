@@ -17,7 +17,7 @@
   ## Installation 
   These dependencies must be installed for this application to work properly: npm i
   ## Usage
-  The purpose of this project is to use two server-size APIs and demonstrate client-side storage to store presistent data.
+  The purpose of this project is to use two server-size APIs and demonstrate client-side storage to store persistent data.
 
   ## License
   ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -32,10 +32,10 @@
   To feature dynamically updated HTML and CSS powered by Javascript code.
 
   ## Credits
-  students of the U of MN Full Stack Web Dev program Brendan Smith, Kabao Thao, and Isabelle Jacobsen.
+  Kabao Thao, Jamie Lee, Nathan Johnson
 
   ## Questions
-  If you have any questions, feel free to cantact me at: 
-  * GitHub: https://github.com/undefined
+  If you have any questions, feel free to contact me at: 
+  * GitHub: https://github.com/kabaothao
   * E-mail: tkabao@gmail.com
 

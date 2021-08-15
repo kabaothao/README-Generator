@@ -110,8 +110,8 @@ function generateMarkdown(data) {
   ${data.credit}
 
   ## Questions
-  If you have any questions, feel free to cantact me at: 
-  * GitHub: https://github.com/${data.github}
+  If you have any questions, feel free to contact me at: 
+  * GitHub: https://github.com/${data.username}
   * E-mail: ${data.email}
 
 `;
