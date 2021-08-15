@@ -1,7 +1,7 @@
-# Rick and Morty Wiki
+# Gifficult
 
   ## Description 
-  To retreive Rick and Morty data for characters, genders, and status.
+  This project is designed to generate multiple-choice questions and interactive coding challenges.
 
 
   ## Table of Contents
@@ -17,7 +17,7 @@
   ## Installation 
   These dependencies must be installed for this application to work properly: npm i
   ## Usage
-  To access to third-party APIs and functionality.To incorporate third-party APIs and local storage.
+  The purpose of this project is to use two server-size APIs and demonstrate client-side storage to store presistent data.
 
   ## License
   ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -29,10 +29,10 @@
   To run tests use: npm test
 
   ## Contributions
-  Peronal project.
+  To feature dynamically updated HTML and CSS powered by Javascript code.
 
   ## Credits
-  They're no collaborators.
+  students of the U of MN Full Stack Web Dev program Brendan Smith, Kabao Thao, and Isabelle Jacobsen.
 
   ## Questions
   If you have any questions, feel free to cantact me at: 
