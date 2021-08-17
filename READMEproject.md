@@ -1,7 +1,4 @@
-# Project Name
-
-> Outline a brief description of your project.
-> Live demo [_here_](https://kabaothao.github.io/CodeRefactor/). <!-- If you have the project hosted somewhere, include the link here. -->
+# README Generator
 
 ## Table of Contents
 
@@ -17,44 +14,45 @@
 
 ## General Information
 
-- This project is designed to prepare different scenarios when encounter on the job tickets or feature requests as a developer
+- This project is designed to generate a high quality README for an app.
 - What is the purpose of your project?
-  The purpose of this project is to restructure an existing body of code, altering its internal structure without changing its external behavior.
+  When creating an open source project on Github, it is important to include README. The purpose of creating a README will allow other developers to show their contribution.
 - Why did you undertake it?
-  To make the inefficent code to be more simpler, cleaner, and easier to understand. It also help developers to find the hidden bugs and vulnerabilites in the system.
+  To quickly create a README file by using a command-line application to generate one. This allow project creator to devote more time to working on project.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
 
-- HTML5
-- CSS
 - Visual Studio
+- Node.js
+- Gitbash
 
 ## Features
 
-List the ready features here:
-
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Starter Code
+- package.json
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](readmescreenshot.PNG)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Setup
 
+Project requirements:
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+- A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
+- A sample README.md file for a project repository generated using your application
+- The URL of the GitHub repository, with a unique name and a README describing the project
 
 ## Usage
 
 How does one go about using it?
-To restructure codes to the corrected classes in order to reduce redundacy.
+
+- To createa README file using command-lines application.
 
 ## Acknowledgements
 
