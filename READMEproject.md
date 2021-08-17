@@ -35,7 +35,7 @@
 
 ## Screenshots
 
-![Example screenshot](readmescreenshot.PNG)
+![Example screenshot](https://github.com/kabaothao/README-Generator/blob/main/readmescreenshot.PNG)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
