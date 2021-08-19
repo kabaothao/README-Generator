@@ -1,41 +1,76 @@
-# Gifficult
+# README Generator
 
-  ## Description 
-  This project is designed to generate multiple-choice questions and interactive coding challenges.
+> Outline a brief description of your project.
+> Live demo [_here_](https://drive.google.com/file/d/1e0H03UNYX_cxP2vNtzYrhP83-vi6AL8A/view?usp=sharing). <!-- If you have the project hosted somewhere, include the link here. -->
 
+## Table of Contents
 
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Tests](#Tests)
-  * [Contributions](#Contributions)
-  * [Credits](#credits)
-  * [Questions](#questions)
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+<!-- * [License](#license) -->
 
-  
-  ## Installation 
-  These dependencies must be installed for this application to work properly: npm i
-  ## Usage
-  The purpose of this project is to use two server-size APIs and demonstrate client-side storage to store persistent data.
+## General Information
 
-  ## License
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+- This project is designed to generate a high quality README for an app.
+- What is the purpose of your project?
+  When creating an open source project on Github, it is important to include README. The purpose of creating a README will allow other developers to show their contribution.
+- Why did you undertake it?
+  To quickly create a README file by using a command-line application to generate one. This allow project creator to devote more time to working on project.
 
-  License Link: https://www.apache.org/licenses/LICENSE-2.0
-  Copyright [yyyy] [name of copyright owner] Licensed under the Apache License, Version 2.0 (the 'License'); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an 'AS IS' BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-  ## Tests
-  To run tests use: npm test
+## Technologies Used
 
-  ## Contributions
-  To feature dynamically updated HTML and CSS powered by Javascript code.
+- Visual Studio
+- Node.js
+- Gitbash
 
-  ## Credits
-  Kabao Thao, Jamie Lee, Nathan Johnson
+## Features
 
-  ## Questions
-  If you have any questions, feel free to contact me at: 
-  * GitHub: https://github.com/kabaothao
-  * E-mail: tkabao@gmail.com
+- Starter Code
+- package.json
+
+## Screenshots
+
+![Example screenshot](https://github.com/kabaothao/README-Generator/blob/main/readmescreenshot.PNG)
+
+<!-- If you have screenshots you'd like to share, include them here. -->
+
+## Setup
+
+Project requirements:
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+
+- A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
+- A sample README.md file for a project repository generated using your application
+- The URL of the GitHub repository, with a unique name and a README describing the project
+
+## Usage
+
+How does one go about using it?
+
+- To createa README file using command-lines application.
+
+## Acknowledgements
+
+Give credit here.
+
+- This project was inspired by Trilogy Education.
+- Many thanks to Trilogy Education.
+
+## Contact
+
+Created by [@kabaothao](https://github.com/kabaothao) - feel free to contact me!
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
 
