@@ -1,72 +1,49 @@
-# README Generator
+# Gifficult
+
+## Description
+
+This project is designed to generate multiple-choice questions and interactive coding challenges.
 
 ## Table of Contents
 
-- [General Info](#general-information)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Setup](#setup)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-<!-- * [License](#license) -->
+- [License](#license)
+- [Tests](#Tests)
+- [Contributions](#Contributions)
+- [Credits](#credits)
+- [Questions](#questions)
 
-## General Information
+## Installation
 
-- This project is designed to generate a high quality README for an app.
-- What is the purpose of your project?
-  When creating an open source project on Github, it is important to include README. The purpose of creating a README will allow other developers to show their contribution.
-- Why did you undertake it?
-  To quickly create a README file by using a command-line application to generate one. This allow project creator to devote more time to working on project.
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Technologies Used
-
-- Visual Studio
-- Node.js
-- Gitbash
-
-## Features
-
-- Starter Code
-- package.json
-
-## Screenshots
-
-![Example screenshot](https://github.com/kabaothao/README-Generator/blob/main/readmescreenshot.PNG)
-
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-## Setup
-
-Project requirements:
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-- A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
-- A sample README.md file for a project repository generated using your application
-- The URL of the GitHub repository, with a unique name and a README describing the project
+These dependencies must be installed for this application to work properly: npm i
 
 ## Usage
 
-How does one go about using it?
+The purpose of this project is to use two server-size APIs and demonstrate client-side storage to store persistent data.
 
-- To createa README file using command-lines application.
+## License
 
-## Acknowledgements
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-Give credit here.
+License Link: https://www.apache.org/licenses/LICENSE-2.0
+Copyright [yyyy] [name of copyright owner] Licensed under the Apache License, Version 2.0 (the 'License'); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an 'AS IS' BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-- This project was inspired by Trilogy Education.
-- Many thanks to Trilogy Education.
+## Tests
 
-## Contact
+To run tests use: npm test
 
-Created by [@kabaothao](https://github.com/kabaothao) - feel free to contact me!
+## Contributions
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+To feature dynamically updated HTML and CSS powered by Javascript code.
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Credits
+
+Kabao Thao, Jamie Lee, Nathan Johnson
+
+## Questions
+
+If you have any questions, feel free to contact me at:
+
+- GitHub: https://github.com/kabaothao
+- E-mail: tkabao@gmail.com
